@@ -1,0 +1,4 @@
+env/
+img_server/db.sqlite3
+**/__pycache__/
+**/migrations/
