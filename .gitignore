@@ -2,3 +2,4 @@ env/
 img_server/db.sqlite3
 **/__pycache__/
 **/migrations/
+img_server/main/images/sat.tif
